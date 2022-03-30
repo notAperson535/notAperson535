@@ -10,6 +10,6 @@
 
 ![snake](https://raw.githubusercontent.com/notAperson535/notAperson535/output/github-contribution-grid-snake.svg)
 
-[![OneClick-macOS-Simple-KVM](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=OneClick-macOS-Simple-KVM)](https://github.com/anuraghazra/github-readme-stats)
-[![Windows-11-Taskbar-and-Start-Menu-For-Rainmeter](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)](https://github.com/anuraghazra/github-readme-stats)
-[![Win11-HTML](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Win11-HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![OneClick-macOS-Simple-KVM](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=OneClick-macOS-Simple-KVM)](https://github.com/notAperson535/OneClick-macOS-Simple-KVM)
+[![Windows-11-Taskbar-and-Start-Menu-For-Rainmeter](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)](https://github.com/notAperson535/Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)
+[![Win11-HTML](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Win11-HTML)](https://github.com/notAperson535/Win11-HTML)
