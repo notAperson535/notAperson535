@@ -9,3 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=notAperson535&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![snake](https://raw.githubusercontent.com/notAperson535/notAperson535/output/github-contribution-grid-snake.svg)
+
+[![OneClick-macOS-Simple-KVM](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=OneClick-macOS-Simple-KVM)](https://github.com/anuraghazra/github-readme-stats)
+[![Windows-11-Taskbar-and-Start-Menu-For-Rainmeter](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)](https://github.com/anuraghazra/github-readme-stats)
+[![Win11-HTML](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Win11-HTML)](https://github.com/anuraghazra/github-readme-stats)
