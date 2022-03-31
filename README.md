@@ -6,12 +6,12 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=notAperson535&bg_color=45,4169E1,0000CD&text_color=FFFFFF&title_color=FFFFFF" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=notAperson535&date_format=M%20j%5B%2C%20Y%5D&background=0000CD&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=notAperson535&bg_color=0000CD&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=notAperson535&bg_color=0000CD&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)
 
 [![OneClick-macOS-Simple-KVM](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=OneClick-macOS-Simple-KVM)](https://github.com/notAperson535/OneClick-macOS-Simple-KVM)
 [![Windows-11-Taskbar-and-Start-Menu-For-Rainmeter](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)](https://github.com/notAperson535/Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)
 [![Win11-HTML](https://github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Win11-HTML)](https://github.com/notAperson535/Win11-HTML)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=notAperson535&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=notAperson535&margin-w=10&margin-h=10&no-bg=true)
 
 ![snake](https://raw.githubusercontent.com/notAperson535/notAperson535/output/github-contribution-grid-snake.svg)
