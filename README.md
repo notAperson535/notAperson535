@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://notaperson535-github-readme-stats.vercel.app"><img src="https://notaperson535-github-readme-stats.vercel.app/api?username=notAperson535&bg_color=45,4169E1,0000CD&text_color=FFFFFF&title_color=FFFFFF" /></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=notAperson535&date_format=M%20j%5B%2C%20Y%5D&background=0000CD&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" /></a></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=notAperson535&bg_color=0000CD&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notAperson535&bg_color=0000CD&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![OneClick-macOS-Simple-KVM](https://notaperson535-github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=OneClick-macOS-Simple-KVM)](https://github.com/notAperson535/OneClick-macOS-Simple-KVM)
 [![Windows-11-Taskbar-and-Start-Menu-For-Rainmeter](https://notaperson535-github-readme-stats.vercel.app/api/pin/?username=notAperson535&repo=Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)](https://github.com/notAperson535/Windows-11-Taskbar-and-Start-Menu-For-Rainmeter)
