@@ -24,3 +24,6 @@ Black box with text should be pointing to "download config" button. Ignore step 
 
 ## Full software buttons translated (some other images in this are blurry so refer to here):
 <img width="1780" height="1122" alt="image" src="https://github.com/user-attachments/assets/362446d8-f172-4e06-91dc-e170a889d048" />
+
+
+I am not sure what the "prep", "step 1", and "step 2" images are, I just included them because they came with the files.
