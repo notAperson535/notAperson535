@@ -19,3 +19,6 @@ Follow the instructions in the image to flash the .cfg file onto your keyboard
 <img width="674" height="430" alt="How to send configuration file to keyboard" src="https://github.com/user-attachments/assets/db65f64c-63e9-4df5-b319-61df43b032ec" />
 
 Profit (Hopefully)
+
+## Full software buttons translated (some other images in this are blurry so refer to here):
+<img width="1780" height="1122" alt="image" src="https://github.com/user-attachments/assets/362446d8-f172-4e06-91dc-e170a889d048" />
